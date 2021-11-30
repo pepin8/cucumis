@@ -1,0 +1,24 @@
+Usar config.local en vez de global, para poner el remote, así queda sólo para el repositorio, creo que sirve.
+
+
+- % % % % % % % -
+
+Para poner un link:
+
+<a href="https://jbabn.github.io/yoous/"> this page </a>
+
+- % % % % % % % -
+
+Para cambiar la fuente de un pre:
+
+<pre style="line-height:2; font-size:18px; color:#8ebf42; font-family:arial;">
+ texto  </pre> 
+
+
+line-height puede ser:
+"normal"
+un número, "1", "2", etc, que es la altura de la fuente multiplicada tantas veces.
+un número y "em", ej "1em" "2em", que es como una unidad de medida
+un porcentaje, "25%", que es... porcentaje de la altura de la fuente creo.
+
+
